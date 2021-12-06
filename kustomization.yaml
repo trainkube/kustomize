@@ -1,4 +1,5 @@
 bases:
   - environments/development/
   - environments/production/
+  - https://github.com/trainkube/kustomize/blob/8497610df3820d1aeabf85d8531ab7b2234bfeca/additional.yaml  
 
